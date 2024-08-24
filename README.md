@@ -1,5 +1,4 @@
 
 
 
-
-![](https://leetcard.Mayur_0707/lapor?ext=heatmap)
+![](https://leetcard.jacoblin.cool/Mayur_0707?ext=heatmap)
