@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Mayur Galhate</h1>
 
-[![LeetCode badge](https://img.shields.io/badge/LeetCode-Mayur_0707-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/Mayur_0707/)
+[![LeetCode 50-Day Streak](https://img.shields.io/badge/LeetCode_Streak-50_Days-success?logo=leetcode&logoColor=white&style=flat&color=orange)](https://leetcode.com/u/Mayur_0707/)
 
 
 
