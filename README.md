@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Mayur Galhate</h1>
 
-![Achievement1]([URL_TO_ACHIEVEMENT_IMAGE](https://leetcode.com/medal/?showImg=0&id=7075867&isLevel=false))
+![Achievement1](https://assets.leetcode.com/static_assets/others/2550.gif)
 
 
 
