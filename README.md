@@ -2,7 +2,7 @@
 <img src="https://komarev.com/ghpvc/?username=mayurgalhate&label=Profile%20Views&color=000000&style=for-the-badge"/>
 </p>
 
-<h3 align="center">Hi 👋 I'm Mayur Galhate</h3>
+<h1 align="center">Hi 👋 I'm Mayur Galhate</h1>
 
 
 
