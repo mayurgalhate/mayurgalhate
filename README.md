@@ -4,9 +4,7 @@
 
 <h3 align="center">Hi 👋 I'm Mayur Galhate</h3>
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Roboto&size=20&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Computer+Science+Student;DSA+Enthusiast;Future+SDE;Building+Cool+Things+🚀"/>
-</p>
+
 
 ---
 
@@ -88,14 +86,6 @@
 <a href="https://github.com/mayurgalhate">
 <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
----
-
-### 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/mayurgalhate/mayurgalhate/output/github-contribution-grid-snake.svg"/>
-</p>
 
 ---
 
