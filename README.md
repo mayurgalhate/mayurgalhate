@@ -53,33 +53,19 @@
 
 ---
 
-### 💻 Coding Profiles
 
-<a href="https://leetcode.com/yourusername">
-<img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
-
-<a href="https://codeforces.com/profile/yourusername">
-<img src="https://img.shields.io/badge/Codeforces-000000?style=for-the-badge&logo=codeforces&logoColor=white"/>
-</a>
-
-<a href="https://geeksforgeeks.org/yourusername">
-<img src="https://img.shields.io/badge/GeeksforGeeks-000000?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
-</a>
-
----
 
 ### 🌐 Connect With Me
 
-<a href="https://linkedin.com/in/yourlinkedin">
+<a href="https://www.linkedin.com/in/mayurgalhate77/">
 <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://twitter.com/YOURTWITTER">
+<a href="https://x.com/MayurGalhate">
 <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=twitter&logoColor=white"/>
 </a>
 
-<a href="mailto:yourmail@gmail.com">
+<a href="mailto:galhatemayur@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
@@ -88,6 +74,11 @@
 </a>
 
 ---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
+</p>
+
 
 ### ⚡ Fun Fact
 
