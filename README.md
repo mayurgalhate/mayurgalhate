@@ -4,7 +4,9 @@
 
 <h1 align="center">Hi 👋 I'm Mayur Galhate</h1>
 
-
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=50&size=24&pause=1000&color=D1D5DB&center=true&vCenter=true&width=700&lines=Google+Summer+of+Code+2026+Contributor;OSGeo+Open+Source+Developer" alt="Typing SVG" />
+</p>
 
 ---
 
